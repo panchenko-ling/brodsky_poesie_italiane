@@ -4284,14 +4284,14 @@
         <placeName xml:lang="en">Venetian Lagoon</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
         </location>
       </place>
       <place xml:id="pension_accademia" type="hotel">
         <placeName xml:lang="en">Pension Accademia</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
           <geo>45.4320649 12.3270656</geo>
         </location>
       </place>
@@ -4299,35 +4299,35 @@
         <placeName xml:lang="en">Venice</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
         </location>
       </place>
       <place xml:id="adriatic_sea" type="sea">
         <placeName xml:lang="en">Adriatic Sea</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
         </location>
       </place>
       <place xml:id="sphinxs_quay" type="monument">
         <placeName xml:lang="en">Quay with Sphinxes</placeName>
         <location>
           <country>Russia</country>
-          <city>Saint-Petersburg</city>
+          <settlement type="city">Saint-Petersburg</settlement>
         </location>
       </place>
       <place xml:id="leone_san_marco" type="monument">
         <placeName xml:lang="en">Lion of Saint Mark</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
         </location>
       </place>
       <place xml:id="san_marco_square" type="square">
         <placeName xml:lang="en">Piazza San Marco</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
           <geo>45.4341668 12.3384717</geo>
         </location>
       </place>
@@ -4341,21 +4341,21 @@
         <placeName xml:lang="en">Florence</placeName>
         <location>
           <country>Italy</country>
-          <city>Florence</city>
+          <settlement type="city">Florence</settlement>
         </location>
       </place>
       <place xml:id="arno_river" type="river">
         <placeName xml:lang="en">Arno</placeName>
         <location>
           <country>Italy</country>
-          <city>Florence</city>
+          <settlement type="city">Florence</settlement>
         </location>
       </place>
       <place xml:id="signoria_square" type="square">
         <placeName xml:lang="en">Piazza della Signoria</placeName>
         <location>
           <country>Italy</country>
-          <city>Florence</city>
+          <settlement type="city">Florence</settlement>
           <geo>43.7696855 11.2556422</geo>
         </location>
       </place>
@@ -4363,7 +4363,7 @@
         <placeName xml:lang="en">Ponte Vecchio</placeName>
         <location>
           <country>Italy</country>
-          <city>Florence</city>
+          <settlement type="city">Florence</settlement>
           <geo>43.767925 11.2531435</geo>
         </location>
       </place>
@@ -4371,7 +4371,7 @@
         <placeName xml:lang="en">Basilica of San Lorenzo</placeName>
         <location>
           <country>Italy</country>
-          <city>Florence</city>
+          <settlement type="city">Florence</settlement>
           <geo>43.7749619 11.2538762</geo>
         </location>
       </place>
@@ -4379,21 +4379,21 @@
         <placeName xml:lang="en">Ravenna</placeName>
         <location>
           <country>Italy</country>
-          <city>Ravenna</city>
+          <settlement type="city">Ravenna</settlement>
         </location>
       </place>
       <place xml:id="san_pietro_island_venice" type="island">
         <placeName xml:lang="en">San Pietro di Castello (island)</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
         </location>
       </place>
       <place xml:id="vittorio_emmanuele_monument_venice" type="monument">
         <placeName xml:lang="en">Monument to Victor Emmanuel II</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
           <geo>45.4338948 12.3433492</geo>
         </location>
       </place>
@@ -4401,7 +4401,7 @@
         <placeName xml:lang="en">St Mark's Basilica</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
           <geo>45.4345606 12.3397124</geo>
         </location>
       </place>
@@ -4409,14 +4409,14 @@
         <placeName xml:lang="en">Piazza Mattei</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
         </location>
       </place>
       <place xml:id="turtle_fountain" type="historical_landmark">
         <placeName xml:lang="en">Fontana delle Tartarughe</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.8938343 12.4775765</geo>
         </location>
       </place>
@@ -4424,14 +4424,14 @@
         <placeName xml:lang="en">Rome</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
         </location>
       </place>
       <place xml:id="terme_di_caracalla" type="historical_landmark">
         <placeName xml:lang="en">Baths of Caracalla</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.8790526 12.4926304</geo>
         </location>
       </place>
@@ -4439,7 +4439,7 @@
         <placeName xml:lang="en">Colosseum</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.8902102 12.4922309</geo>
         </location>
       </place>
@@ -4447,7 +4447,7 @@
         <placeName xml:lang="en">Via dei Funari</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.8937871 12.4785082</geo>
         </location>
       </place>
@@ -4471,14 +4471,14 @@
         <placeName xml:lang="en">Tanais</placeName>
         <location>
           <country>Russia</country>
-          <city>Rostov-on-Don</city>
+          <settlement type="city">Rostov-on-Don</settlement>
         </location>
       </place>
       <place xml:id="perm" type="city">
         <placeName xml:lang="en">Perm</placeName>
         <location>
           <country>Russia</country>
-          <city>Perm</city>
+          <settlement type="city">Perm</settlement>
         </location>
       </place>
       <place xml:id="italy" type="country">
@@ -4491,21 +4491,21 @@
         <placeName xml:lang="en">Saint Petersburg</placeName>
         <location>
           <country>Russia</country>
-          <city>Saint-Petersburg</city>
+          <settlement type="city">Saint-Petersburg</settlement>
         </location>
       </place>
       <place xml:id="tiber" type="river">
         <placeName xml:lang="en">Tiber</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
         </location>
       </place>
       <place xml:id="via_giulia" type="street">
         <placeName xml:lang="en">Via Giulia</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.8962558 12.4681342</geo>
         </location>
       </place>
@@ -4513,7 +4513,7 @@
         <placeName xml:lang="en">Bar Gianicolo</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.8882528 12.4612167</geo>
         </location>
       </place>
@@ -4521,7 +4521,7 @@
         <placeName xml:lang="en">Lombardia</placeName>
         <location>
           <country>Italy</country>
-          <city>Milan</city>
+          <settlement type="city">Milan</settlement>
         </location>
       </place>
       <place xml:id="africa" type="continent">
@@ -4538,14 +4538,14 @@
         <placeName xml:lang="en">Louvre</placeName>
         <location>
           <country>France</country>
-          <city>Paris</city>
+          <settlement type="city">Paris</settlement>
         </location>
       </place>
       <place xml:id="chernozem" type="region">
         <placeName xml:lang="en">Central Black Earth Economic Region</placeName>
         <location>
           <country>Russia</country>
-          <city>Voronezh</city>
+          <settlement type="city">Voronezh</settlement>
         </location>
       </place>
       <place xml:id="apennines" type="mountains">
@@ -4558,21 +4558,21 @@
         <placeName xml:lang="en">La Scala</placeName>
         <location>
           <country>Italy</country>
-          <city>Milan</city>
+          <settlement type="city">Milan</settlement>
         </location>
       </place>
       <place xml:id="milan" type="city">
         <placeName xml:lang="en">Milan</placeName>
         <location>
           <country>Italy</country>
-          <city>Milan</city>
+          <settlement type="city">Milan</settlement>
         </location>
       </place>
       <place xml:id="bethlehem" type="city">
         <placeName xml:lang="en">Bethlehem</placeName>
         <location>
           <country>Palestine</country>
-          <city>Bethlehem</city>
+          <settlement type="city">Bethlehem</settlement>
         </location>
       </place>
       <place xml:id="palestine" type="country">
@@ -4585,14 +4585,14 @@
         <placeName xml:lang="en">Ischia</placeName>
         <location>
           <country>Italy</country>
-          <city>Naples</city>
+          <settlement type="city">Naples</settlement>
         </location>
       </place>
       <place xml:id="epomeo" type="mountains">
         <placeName xml:lang="en">Mount Epomeo</placeName>
         <location>
           <country>Italy</country>
-          <city>Naples</city>
+          <settlement type="city">Naples</settlement>
         </location>
       </place>
       <place xml:id="egypt" type="country">
@@ -4605,28 +4605,28 @@
         <placeName xml:lang="en">Hotel Meleager and Atalanta</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
         </location>
       </place>
       <place xml:id="auschwitz" type="concentration_camp">
         <placeName xml:lang="en">Auschwitz</placeName>
         <location>
           <country>Poland</country>
-          <city>Oświęcim</city>
+          <settlement type="city">Oświęcim</settlement>
         </location>
       </place>
       <place xml:id="procida" type="island">
         <placeName xml:lang="en">Procida</placeName>
         <location>
           <country>Italy</country>
-          <city>Naples</city>
+          <settlement type="city">Naples</settlement>
         </location>
       </place>
       <place xml:id="palazzo_caetani" type="building">
         <placeName xml:lang="en">Palazzo Caetani</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.8940027 12.4783013</geo>
         </location>
       </place>
@@ -4634,7 +4634,7 @@
         <placeName xml:lang="en">Camiceria (Via dei Funari)</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.8937368 12.4785137</geo>
         </location>
       </place>
@@ -4654,7 +4654,7 @@
         <placeName xml:lang="en">Hotel Quirinale</placeName>
         <location>
           <country>Italy</country>
-          <city>Rome</city>
+          <settlement type="city">Rome</settlement>
           <geo>41.9016232 12.4948552</geo>
         </location>
       </place>
@@ -4662,7 +4662,7 @@
         <placeName xml:lang="en">Palazzo Minelli</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
           <geo>45.43449 12.3342294</geo>
         </location>
       </place>
@@ -4670,7 +4670,7 @@
         <placeName xml:lang="en">Girolamo Marcello's Palace (Rio de la Verona)</placeName>
         <location>
           <country>Italy</country>
-          <city>Venice</city>
+          <settlement type="city">Venice</settlement>
           <geo>45.4340984 12.3331228</geo>
         </location>
       </place>
