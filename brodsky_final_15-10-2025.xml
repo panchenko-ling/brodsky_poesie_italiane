@@ -4823,6 +4823,7 @@
       </person>
       <person xml:id="craveri_benedetta">
         <persName xml:lang="en">Benedetta Craveri</persName>
+        <trait type="category">art</trait>
         <trait type="category">acquaintance</trait>
         <trait type="occupation">literary_critic</trait>
         <trait type="relationship">friend</trait>
