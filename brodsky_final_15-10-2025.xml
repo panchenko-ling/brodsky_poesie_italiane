@@ -4680,428 +4680,431 @@
     <listPerson>
       <person xml:id="god">
         <persName xml:lang="en">God</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="chort">
         <persName xml:lang="en">Chort</persName>
-        <type>literature_character</type>
+        <trait type="category">literature_character</trait>
         <date when="1831">1831</date>
         <country>Russia</country>
       </person>
       <person xml:id="solokha">
         <persName xml:lang="en">Solokha</persName>
-        <type>literature_character</type>
+        <trait type="category">literature_character</trait>
         <date when="1831">1831</date>
         <country>Russia</country>
       </person>
       <person xml:id="st_sofia">
         <persName xml:lang="en">Saint Sofia</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="st_faith">
         <persName xml:lang="en">Saint Faith</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="st_hope">
         <persName xml:lang="en">Saint Hope</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="st_charity">
         <persName xml:lang="en">Saint Charity</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="akhmatova_anna">
         <persName xml:lang="en">Anna Akhmatova</persName>
-        <type>art</type>
-        <type>acquaintance</type>
-        <role>poet</role>
-        <role>friend</role>
+        <trait type="category">art</trait>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">poet</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1889">1889</birth>
         <death when="1966">1966</death>
         <country>Russia</country>
       </person>
       <person xml:id="cellini_benvenuto">
         <persName xml:lang="en">Benvenuto Cellini</persName>
-        <type>art</type>
-        <role>sculptor</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">sculptor</trait>
         <birth when="1500">1500</birth>
         <death when="5171">5171</death>
         <country>Italy</country>
       </person>
       <person xml:id="brunelleschi_filippo">
         <persName xml:lang="en">Filippo Brunelleschi</persName>
-        <type>art</type>
-        <role>architect</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">architect</trait>
         <birth when="1377">1377</birth>
         <death when="1446">1446</death>
         <country>Italy</country>
       </person>
       <person xml:id="evangelist">
         <persName xml:lang="en">Evangelist (unidentified)</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="aphrodite">
         <persName xml:lang="en">Aphrodite</persName>
-        <type>greek_mythology</type>
+        <trait type="category">greek_mythology</trait>
         <country>Greece</country>
       </person>
       <person xml:id="michela_prodan">
         <persName xml:lang="en">Michela Prodan</persName>
-        <type>acquaintance</type>
-        <role>romance</role>
+        <trait type="category">acquaintance</trait>
+        <trait type="relationship">romance</trait>
         <country>Italy</country>
       </person>
       <person xml:id="muses">
         <persName xml:lang="en">Muses</persName>
-        <type>greek_mythology</type>
+        <trait type="category">greek_mythology</trait>
         <country>Greece</country>
       </person>
       <person xml:id="graces">
         <persName xml:lang="en">Graces</persName>
-        <type>roman_mythology</type>
+        <trait type="category">roman_mythology</trait>
         <country>Italy</country>
       </person>
       <person xml:id="ovid">
         <persName xml:lang="en">Ovid</persName>
-        <type>art</type>
-        <role>poet</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">poet</trait>
         <birth when="43BC">43BC</birth>
         <death when="17">17</death>
         <country>Italy</country>
       </person>
       <person xml:id="virgil">
         <persName xml:lang="en">Virgil</persName>
-        <type>art</type>
-        <role>poet</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">poet</trait>
         <birth when="70BC">70BC</birth>
         <death when="19BC">19BC</death>
         <country>Italy</country>
       </person>
       <person xml:id="horace">
         <persName xml:lang="en">Horace</persName>
-        <type>art</type>
-        <role>poet</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">poet</trait>
         <birth when="65BC">65BC</birth>
         <death when="8BC">8BC</death>
         <country>Italy</country>
       </person>
       <person xml:id="euterpe">
         <persName xml:lang="en">Euterpe</persName>
-        <type>greek_mythology</type>
+        <trait type="category">greek_mythology</trait>
         <country>Greece</country>
       </person>
       <person xml:id="michelangelo">
         <persName xml:lang="en">Michelangelo Buonarotti</persName>
-        <type>art</type>
-        <role>sculptor</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">sculptor</trait>
         <birth when="1475">1475</birth>
         <death when="1564">1564</death>
         <country>Italy</country>
       </person>
       <person xml:id="borromini_francesco">
         <persName xml:lang="en">Francesco Borromini</persName>
-        <type>art</type>
-        <role>architect</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">architect</trait>
         <birth when="1599">1599</birth>
         <death when="1667">1667</death>
         <country>Italy</country>
       </person>
       <person xml:id="parcae">
         <persName xml:lang="en">Parcae</persName>
-        <type>roman_mythology</type>
+        <trait type="category">roman_mythology</trait>
         <country>Italy</country>
       </person>
       <person xml:id="tasso_torquato">
         <persName xml:lang="en">Torquato Tasso</persName>
-        <type>art</type>
-        <role>poet</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">poet</trait>
         <birth when="1544">1544</birth>
         <death when="1595">1595</death>
         <country>Italy</country>
       </person>
       <person xml:id="church_fathers">
         <persName xml:lang="en">Church Fathers</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="craveri_benedetta">
         <persName xml:lang="en">Benedetta Craveri</persName>
-        <type>acquaintance</type>
-        <role>literary_critic</role>
-        <role>friend</role>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">literary_critic</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1942">1942</birth>
         <country>Italy</country>
       </person>
       <person xml:id="argus">
         <persName xml:lang="en">Argus</persName>
-        <type>greek_mythology</type>
+        <trait type="category">greek_mythology</trait>
         <country>Greece</country>
       </person>
       <person xml:id="caruso_enrico">
         <persName xml:lang="en">Enrico Caruso</persName>
-        <type>art</type>
-        <role>singer</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">singer</trait>
         <birth when="1873">1873</birth>
         <death when="1921">1921</death>
         <country>Italy</country>
       </person>
       <person xml:id="lesbia">
         <persName xml:lang="en">Lesbia</persName>
-        <type>historical_character</type>
+        <trait type="category">historical_character</trait>
         <country>Italy</country>
       </person>
       <person xml:id="julia_the_elder">
         <persName xml:lang="en">Julia the Elder</persName>
-        <type>historical_character</type>
+        <trait type="category">historical_character</trait>
         <birth when="39BC">39BC</birth>
         <death when="14">14</death>
         <country>Italy</country>
       </person>
       <person xml:id="cynthia_propertius">
         <persName xml:lang="en">Cynthia (Propertius)</persName>
-        <type>historical_character</type>
+        <trait type="category">historical_character</trait>
         <country>Italy</country>
       </person>
       <person xml:id="livia_drusilla">
         <persName xml:lang="en">Livia Drusilla</persName>
-        <type>historical_character</type>
+        <trait type="category">historical_character</trait>
         <birth when="59BC">59BC</birth>
         <death when="29">29</death>
         <country>Italy</country>
       </person>
       <person xml:id="malevich_kazimir">
         <persName xml:lang="en">Kazimir Malevich</persName>
-        <type>art</type>
-        <role>artist</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">artist</trait>
         <birth when="1879">1879</birth>
         <death when="1935">1935</death>
         <country>Russia</country>
       </person>
       <person xml:id="romulus">
         <persName xml:lang="en">Remus</persName>
-        <type>roman_mythology</type>
+        <trait type="category">roman_mythology</trait>
         <country>Italy</country>
       </person>
       <person xml:id="remus">
         <persName xml:lang="en">Romulus</persName>
-        <type>roman_mythology</type>
+        <trait type="category">roman_mythology</trait>
         <country>Italy</country>
       </person>
       <person xml:id="sontag_susan">
         <persName xml:lang="en">Susan Sontag</persName>
-        <type>art</type>
-        <type>acquaintance</type>
-        <role>writer</role>
-        <role>romance</role>
+        <trait type="category">art</trait>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">writer</trait>
+        <trait type="relationship">romance</trait>
         <birth when="1933">1933</birth>
         <death when="2004">2004</death>
         <country>US</country>
       </person>
       <person xml:id="iago_otello">
         <persName xml:lang="en">Iago</persName>
-        <type>literature_character</type>
+        <trait type="category">literature_character</trait>
         <date when="1603">1603</date>
         <country>UK</country>
       </person>
       <person xml:id="duse_eleonora">
         <persName xml:lang="en">Eleonora Duse</persName>
-        <type>art</type>
-        <role>actress</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">actress</trait>
         <birth when="1858">1858</birth>
         <death when="1924">1924</death>
         <country>Italy</country>
       </person>
       <person xml:id="nereids">
         <persName xml:lang="en">Nereids</persName>
-        <type>greek_mythology</type>
-        <type>roman_mythology</type>
+        <trait type="category">greek_mythology</trait>
+        <trait type="category">roman_mythology</trait>
         <country>Italy</country>
         <country>Greece</country>
       </person>
       <person xml:id="shmakov_gennady">
         <persName xml:lang="en">Gennady Shmakov</persName>
-        <type>art</type>
-        <type>acquaintance</type>
-        <role>poet</role>
+        <trait type="category">art</trait>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">poet</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1940">1940</birth>
         <death when="1988">1988</death>
         <country>Russia</country>
       </person>
       <person xml:id="susanna">
         <persName xml:lang="en">Susanna</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="the_elders">
         <persName xml:lang="en">The elders</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="st_george">
         <persName xml:lang="en">Saint George</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="calasso_roberto">
         <persName xml:lang="en">Roberto Calasso</persName>
-        <type>art</type>
-        <type>acquaintance</type>
-        <role>writer</role>
-        <role>friend</role>
+        <trait type="category">art</trait>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">writer</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1941">1941</birth>
         <death when="2021">2021</death>
         <country>Italy</country>
       </person>
       <person xml:id="jaeggy_fleur">
         <persName xml:lang="en">Fleur Jaeggy</persName>
-        <type>art</type>
-        <type>acquaintance</type>
-        <role>writer</role>
-        <role>friend</role>
+        <trait type="category">art</trait>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">writer</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1940">1940</birth>
         <country>Italy</country>
         <country>Switzerland</country>
       </person>
       <person xml:id="tiberius">
         <persName xml:lang="en">Tiberius</persName>
-        <type>historical_character</type>
-        <role>roman_emperor</role>
+        <trait type="category">historical_character</trait>
+        <trait type="occupation">roman_emperor</trait>
         <birth when="42BC">42BC</birth>
         <death when="37">37</death>
         <country>Italy</country>
       </person>
       <person xml:id="suetonius">
         <persName xml:lang="en">Suetonius</persName>
-        <type>art</type>
-        <role>writer</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">writer</trait>
         <birth when="69">69</birth>
         <death when="122">122</death>
         <country>Italy</country>
       </person>
       <person xml:id="tacitus">
         <persName xml:lang="en">Tacitus</persName>
-        <type>art</type>
-        <role>writer</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">writer</trait>
         <birth when="55">55</birth>
         <death when="120">120</death>
         <country>Italy</country>
       </person>
       <person xml:id="teodora_l">
         <persName xml:lang="en">Teodora L.</persName>
-        <type>acquaintance</type>
-        <role>romance</role>
+        <trait type="category">acquaintance</trait>
+        <trait type="relationship">romance</trait>
         <country>US</country>
       </person>
       <person xml:id="suzanne_martin">
         <persName xml:lang="en">Suzanne Martin</persName>
-        <type>acquaintance</type>
+        <trait type="category">acquaintance</trait>
         <birth when="1924">1924</birth>
         <death when="2004">2004</death>
         <country>France</country>
       </person>
       <person xml:id="vertumnus">
         <persName xml:lang="en">Vertumnus</persName>
-        <type>roman_mythology</type>
+        <trait type="category">roman_mythology</trait>
         <country>Italy</country>
       </person>
       <person xml:id="buttafava_giovanni">
         <persName xml:lang="en">Giovanni Buttafava</persName>
-        <type>art</type>
-        <type>acquaintance</type>
-        <role>translator</role>
-        <role>friend</role>
+        <trait type="category">art</trait>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">translator</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1939">1939</birth>
         <death when="1990">1990</death>
         <country>Italy</country>
       </person>
       <person xml:id="pomona">
         <persName xml:lang="en">Pomona</persName>
-        <type>roman_mythology</type>
+        <trait type="category">roman_mythology</trait>
         <country>Italy</country>
       </person>
       <person xml:id="balenciaga_cristobal">
         <persName xml:lang="en">Cristóbal Balenciaga</persName>
-        <type>art</type>
-        <role>designer</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">designer</trait>
         <birth when="1844">1895</birth>
         <death when="1900">1972</death>
         <country>Spain</country>
       </person>
       <person xml:id="maupassant">
         <persName xml:lang="en">Guy de Maupassant</persName>
-        <type>art</type>
-        <role>writer</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">writer</trait>
         <birth when="1850">1850</birth>
         <death when="1893">1893</death>
         <country>France</country>
       </person>
       <person xml:id="nietzsche">
         <persName xml:lang="en">Friedrich Nietzsche</persName>
-        <type>art</type>
-        <role>philosopher</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">philosopher</trait>
         <birth when="1844">1844</birth>
         <death when="1900">1900</death>
         <country>Germany</country>
       </person>
       <person xml:id="yavashev_christo">
         <persName xml:lang="en">Сhristo Yavashev</persName>
-        <type>art</type>
-        <role>sculptor</role>
-        <role>artist</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">sculptor</trait>
+        <trait type="occupation">artist</trait>
         <birth when="1935">1935</birth>
         <death when="2020">2020</death>
         <country>US</country>
       </person>
       <person xml:id="lenin">
         <persName xml:lang="en">Vladimir Lenin</persName>
-        <type>historical_character</type>
+        <trait type="category">historical_character</trait>
         <birth when="85BC">1870</birth>
         <death when="43BC">1924</death>
         <country>Russia</country>
       </person>
       <person xml:id="caravaggio">
         <persName xml:lang="en">Caravaggio</persName>
-        <type>art</type>
-        <role>artist</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">artist</trait>
         <birth when="1571">1571</birth>
         <death when="1610">1610</death>
         <country>Italy</country>
       </person>
       <person xml:id="bernini">
         <persName xml:lang="en">Gian Lorenzo Bernini</persName>
-        <type>art</type>
-        <role>sculptor</role>
-        <role>architect</role>
-        <role>artist</role>
+        <trait type="category">art</trait>
+        <trait type="occupation">sculptor</trait>
+        <trait type="occupation">architect</trait>
+        <trait type="occupation">artist</trait>
         <birth when="1598">1598</birth>
         <death when="1680">1680</death>
         <country>Italy</country>
       </person>
       <person xml:id="jesus">
         <persName xml:lang="en">Jesus</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="mother_mary">
         <persName xml:lang="en">Mary, mother of Jesus</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="st_joseph">
         <persName xml:lang="en">Saint Joseph</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="biblical_magi">
         <persName xml:lang="en">Biblical Magi</persName>
-        <type>christianity</type>
+        <trait type="category">christianity</trait>
       </person>
       <person xml:id="malcovatti_fausto">
         <persName xml:lang="en">Fausto Malcovatti</persName>
-        <type>art</type>
-        <role>translator</role>
+        <trait type="category">art</trait>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">translator</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1940">1940</birth>
         <country>Italy</country>
       </person>
       <person xml:id="auden_w_h">
         <persName xml:lang="en">Wystan Hugh Auden</persName>
-        <type>art</type>
-        <type>acquaintance</type>
-        <role>poet</role>
-        <role>friend</role>
+        <trait type="category">art</trait>
+        <trait type="category">acquaintance</trait>
+        <trait type="occupation">poet</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1907">1907</birth>
         <death when="1973">1973</death>
         <country>UK</country>
@@ -5109,46 +5112,46 @@
       </person>
       <person xml:id="brodsky_anna">
         <persName xml:lang="en">Anna Brodsky</persName>
-        <type>acquaintance</type>
-        <role>child</role>
+        <trait type="category">acquaintance</trait>
+        <trait type="relationship">child</trait>
         <birth when="1993">1993</birth>
         <country>Italy</country>
         <country>US</country>
       </person>
       <person xml:id="sozzani_maria">
         <persName xml:lang="en">Maria Sozzani</persName>
-        <type>acquaintance</type>
-        <role>spouse</role>
+        <trait type="category">acquaintance</trait>
+        <trait type="relationship">spouse</trait>
         <birth when="1970">1970</birth>
         <country>Italy</country>
         <country>US</country>
       </person>
       <person xml:id="aeneas">
         <persName xml:lang="en">Aeneas</persName>
-        <type>roman_mythology</type>
-        <type>greek_mythology</type>
+        <trait type="category">roman_mythology</trait>
+        <trait type="category">greek_mythology</trait>
         <country>Italy</country>
         <country>Greece</country>
       </person>
       <person xml:id="conte_marcello_girolamo">
         <persName xml:lang="en">Girolamo Marcello</persName>
-        <type>acquaintance</type>
-        <role>friend</role>
+        <trait type="category">acquaintance</trait>
+        <trait type="relationship">friend</trait>
         <birth when="1932">1932</birth>
         <death when="2017">2017</death>
         <country>Italy</country>
       </person>
       <person xml:id="septimius_severus">
         <persName xml:lang="en">Septimius Severus</persName>
-        <type>historical_character</type>
-        <role>roman_emperor</role>
+        <trait type="category">historical_character</trait>
+        <trait type="occupation">roman_emperor</trait>
         <birth when="145">145</birth>
         <death when="211">211</death>
         <country>Italy</country>
       </person>
       <person xml:id="dolabella_cornelio">
         <persName xml:lang="en">Publio Cornelio Dolabella</persName>
-        <type>historical_character</type>
+        <trait type="category">historical_character</trait>
         <birth when="85BC">85BC</birth>
         <death when="43BC">43BC</death>
         <country>Italy</country>
