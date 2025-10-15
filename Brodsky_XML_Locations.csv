@@ -1,0 +1,84 @@
+Poem number,Poem name (ru / it),Pages (ru-it),Text (ru),Text (it),Location,Mentions index,Location key,Location type,City,Country
+1,ТОРС / TORSO,10-11,Империи,Impero,Roman Empire,1,roman_empire,ancient_country,NA,Italy
+2,ЛАГУНА / LAGUNA,12-13,Лагуна,Laguna,Venetian Lagoon,1,venetian_lagoon,bay,Venice,Italy
+2,ЛАГУНА / LAGUNA,12-13,"пансион ""Аккадемиа""",La pensione Accademia,Pension Accademia,1,pension_accademia,hotel,Venice,Italy
+2,ЛАГУНА / LAGUNA,12-13,Венецийских,veneziane,Venice,1,venice,city,Venice,Italy
+2,ЛАГУНА / LAGUNA,14-15,Адриатика,l'Adriatico,Adriatic Sea,1,adriatic_sea,sea,Venice,Italy
+2,ЛАГУНА / LAGUNA,14-15,Тонущий город,Città che affondi,Venice,2,venice,city,Venice,Italy
+2,ЛАГУНА / LAGUNA,14-15,сфинксов северных,sfingi del Nord,Quay with Sphinxes,1,sphinxs_quay,monument,Saint-Petersburg,Russia
+2,ЛАГУНА / LAGUNA,14-15,лев крылатый,leone,Lion of Saint Mark,1,leone_san_marco,monument,Venice,Italy
+2,ЛАГУНА / LAGUNA,18-19,Сан-Марко,San Marco,Piazza San Marco,1,san_marco_square,square,Venice,Italy
+3,"""Деревянный лаокоон <...>"" / ""Sgravato per un po' dal peso <...>""",20-21,Средизимнее море,Medinverraneo,Mediterranean Sea,1,mediterranean_sea,sea,NA,Italy
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,22-23,ФЛОРЕНЦИИ,FIRENZE,Florence,1,florence,city,Florence,Italy
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,22-23,Арно,Arno,Arno,1,arno_river,river,Florence,Italy
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,22-23,Синьории,Signoria,Piazza della Signoria,1,signoria_square,square,Florence,Italy
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,22-23,Флоренция,Firenze,Florence,2,florence,city,Florence,Italy
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,22-23,Старом Мосту,Ponte Vecchio,Ponte Vecchio,1,ponte_vecchio_bridge,bridge,Florence,Italy
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,26-27,"Собора, в котором лежит Лоренцо",chiesa dove Lorenzo giace,Basilica of San Lorenzo,1,san_lorenzo_basilica,church,Florence,Italy
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,26-27,Равенны,Ravenna,Ravenna,1,ravenna,city,Ravenna,Italy
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,26-27,Флоренции,Firenze,Florence,3,florence,city,Florence,Italy
+5,САН-ПЬЕТРО / SAN PIETRO,30-31,САН-ПЬЕТРО,SAN PIETRO,San Pietro di Castello (island),1,san_pietro_island_venice,island,Venice,Italy
+5,САН-ПЬЕТРО / SAN PIETRO,30-31,Северной Адриатики,Adriatico del Nord,Adriatic Sea,2,adriatic_sea,sea,Venice,Italy
+5,САН-ПЬЕТРО / SAN PIETRO,32-33,Виктора-Эммануила,Vittorio Emmanuele,Monument to Victor Emmanuel II,1,vittorio_emmanuele_monument_venice,monument,Venice,Italy
+5,САН-ПЬЕТРО / SAN PIETRO,32-33,грузной базилики,greve basilica,St Mark's Basilica,1,san_marco_basilica,church,Venice,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,38-39,ПЬЯЦЦА МАТТÉИ,PIAZZA MATTEI,Piazza Mattei,1,mattei_square,square,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,38-39,фонтана,fontana,Fontana delle Tartarughe,1,turtle_fountain,historical_landmark,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,38-39,Рима,romano,Rome,1,rome,city,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,38-39,Риме,Roma,Rome,2,rome,city,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,40-41,Рим,Roma,Rome,3,rome,city,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,40-41,Терм,Terme,Baths of Caracalla,1,terme_di_caracalla,historical_landmark,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,40-41,Колизея,Colosseo,Colosseum,1,colosseum,historical_landmark,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,40-41,дельи Фунари,via dei Funari,Via dei Funari,1,via_dei_funari,street,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,42-43,Европа,Europa,Europe,1,europe,continent,NA,NA
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,42-43,Риме,,Rome,4,rome,city,Rome,Italy
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,42-43,державы дикой,un selvaggio impero,USSR,1,ussr,country,NA,Russia
+6,ПЬЯЦЦА МАТТÉИ / PIAZZA MATTEI,42-43,"другой, не менее великой",un altro impero,US,1,us,country,NA,US
+7,РИМСКИЕ ЭЛЕГИИ / ELEGIE ROMANE,50-51,РИМСКИЕ,ROMANE,Рим,5,rome,city,Rome,Italy
+7,РИМСКИЕ ЭЛЕГИИ / ELEGIE ROMANE,50-51,Риме,Roma,Рим,6,rome,city,Rome,Italy
+7,РИМСКИЕ ЭЛЕГИИ / ELEGIE ROMANE,52-53,Колизей,Colosseo,Colosseum,2,colosseum,historical_landmark,Rome,Italy
+7,РИМСКИЕ ЭЛЕГИИ / ELEGIE ROMANE,56-57,Риме,Roma,Рим,7,rome,city,Rome,Italy
+7,РИМСКИЕ ЭЛЕГИИ / ELEGIE ROMANE,58-59,Европа,Europa,Europe,2,europe,continent,NA,NA
+7,РИМСКИЕ ЭЛЕГИИ / ELEGIE ROMANE,58-59,Рим,Roma,Rome,8,rome,city,Rome,Italy
+7,РИМСКИЕ ЭЛЕГИИ / ELEGIE ROMANE,58-59,Танаиса,Tanai,Tanais,1,tanais,ancient_city,Rostov-on-Don,Russia
+7,РИМСКИЕ ЭЛЕГИИ / ELEGIE ROMANE,60-61,Риме,Roma,Рим,9,rome,city,Rome,Italy
+8,ВЕНЕЦИАНСКИЕ СТРОФЫ (1) / STROFE VENEZIANE (1),62-63,ВЕНЕЦИАНСКИЕ,VENEZIANE,Venice,3,venice,city,Venice,Italy
+8,ВЕНЕЦИАНСКИЕ СТРОФЫ (1) / STROFE VENEZIANE (1),66-67,Перми,Perm',Perm,1,perm,city,Perm,Russia
+9,ВЕНЕЦИАНСКИЕ СТРОФЫ (2) / STROFE VENEZIANE (2),68-69,ВЕНЕЦИАНСКИЕ,VENEZIANE,Venice,4,venice,city,Venice,Italy
+9,ВЕНЕЦИАНСКИЕ СТРОФЫ (2) / STROFE VENEZIANE (2),72-73,лагуна,laguna,Venetian Lagoon,2,venetian_lagoon,bay,Venice,Italy
+10,В ИТАЛИИ / IN ITALIA,74-75,ИТАЛИИ,ITALIA,Italy,1,italy,country,NA,Italy
+10,В ИТАЛИИ / IN ITALIA,74-75,городе,una città,Saint Petersburg,1,saint_petersburg,city,Saint-Petersburg,Russia
+10,В ИТАЛИИ / IN ITALIA,74-75,лагуна,laguna,Venetian Lagoon,3,venetian_lagoon,bay,Venice,Italy
+11,БЮСТ ТИБЕРИЯ / IL BUSTO DI TIBERIO,76-77,Рим,Roma,Rome,10,rome,city,Rome,Italy
+11,БЮСТ ТИБЕРИЯ / IL BUSTO DI TIBERIO,78-79,Тибр,Il Tevere,Tiber,1,tiber,river,Rome,Italy
+13,НА ВИА ДЖУЛИА / IN VIA GIULIA,84-85,ВИА ДЖУЛИА,VIA GIULIA,Via Giulia,1,via_giulia,street,Rome,Italy
+14,Сюзанне Мартин / a Susanne Martin,86-87,«Яникулум»,bar Gianicolo,Bar Gianicolo,1,bar_gianicolo,local_place,Rome,Italy
+14,Сюзанне Мартин / a Susanne Martin,86-87,Римом,,Rome,11,rome,city,Rome,Italy
+15,ВЕРТУМН / VERTUMNO,94-95,Ломбардии,lombardo,Lombardia,1,lombardia,region,Milan,Italy
+15,ВЕРТУМН / VERTUMNO,94-95,Адриатики,adriatiche,Adriatic Sea,3,adriatic_sea,sea,Venice,Italy
+15,ВЕРТУМН / VERTUMNO,98-99,Африку,Africa,Africa,1,africa,continent,NA,NA
+15,ВЕРТУМН / VERTUMNO,100-101,Альпы,Alpi,Alps,1,alps,mountains,NA,Italy
+15,ВЕРТУМН / VERTUMNO,100-101,лувры,louvres,Louvre,1,louvre,historical_landmark,Paris,France
+15,ВЕРТУМН / VERTUMNO,100-101,черноземной зоной,zona del cernoziom,Central Black Earth Economic Region,1,chernozem,region,Voronezh,Russia
+15,ВЕРТУМН / VERTUMNO,100-101,Альп,Alpi,Alps,2,alps,mountains,NA,Italy
+15,ВЕРТУМН / VERTUMNO,100-101,Апеннины,Appennini,Apennines,1,apennines,mountains,NA,Italy
+15,ВЕРТУМН / VERTUMNO,102-103,Опере,Opera,La Scala,1,la_scala,historical_landmark,Milan,Italy
+15,ВЕРТУМН / VERTUMNO,104-105,Милан,Milano,Milan,1,milan,city,Milan,Italy
+16,PRESEPIO,106-107,Вифлееме,Betlemme,Bethlehem,1,bethlehem,city,Bethlehem,Palestine
+16,PRESEPIO,106-107,Вифлееме,,Bethlehem,2,bethlehem,city,Bethlehem,Palestine
+16,PRESEPIO,106-107,Палестине,Palestina,Palestine,1,palestine,country,NA,Palestine
+17,ИСКИЯ В ОКТЯБРЕ / ISCHIA A OTTOBRE,108-109,ИСКИЯ,ISCHIA,Ischia,1,ischia,island,Naples,Italy
+17,ИСКИЯ В ОКТЯБРЕ / ISCHIA A OTTOBRE,108-109,вулкан,un vulcano,Mount Epomeo,1,epomeo,mountains,Naples,Italy
+18,ПОСВЯЩАЕТСЯ ДЖИРОЛАМО МАРЧЕЛЛО / DEDICATO A GIROLAMO MARCELLO,112-113,Египта,Egitto,Egypt,1,egypt,country,NA,Egypt
+18,ПОСВЯЩАЕТСЯ ДЖИРОЛАМО МАРЧЕЛЛО / DEDICATO A GIROLAMO MARCELLO,112-113,гостинице «Мелеагр и Аталанта»,albergo Meleagro e Atalanta,"Hotel ""Meleager and Atalanta""",1,hotel_meleager_atalanta,local_place,Venice,Italy
+18,ПОСВЯЩАЕТСЯ ДЖИРОЛАМО МАРЧЕЛЛО / DEDICATO A GIROLAMO MARCELLO,114-115,Аушвиц,Auschwitz,Auschwitz,1,auschwitz,concentration_camp,Oświęcim,Poland
+19,ОСТРОВ ПРОЧИДА / PROCIDA,116-117,ОСТРОВ ПРОЧИДА,PROCIDA,Procida,1,procida,island,Naples,Italy
+20,НА ВИА ФУНАРИ / IN VIA DEI FUNARI,118-119,ВИА ФУНАРИ,VIA DEI FUNARI,Via dei Funari,2,via_dei_funari,street,Rome,Italy
+20,НА ВИА ФУНАРИ / IN VIA DEI FUNARI,118-119,дворца Гаэтани,palazzo Caetani,Palazzo Caetani,1,palazzo_caetani,building,Rome,Italy
+20,НА ВИА ФУНАРИ / IN VIA DEI FUNARI,118-119,лавочка,bottega,Camiceria (Via dei Funari),1,camiceria_via_funari,local_place,Rome,Italy
+20,НА ВИА ФУНАРИ / IN VIA DEI FUNARI,118-119,Тунисе,Tunisi,Tunisia,1,tunisia,country,NA,Tunisia
+20,НА ВИА ФУНАРИ / IN VIA DEI FUNARI,118-119,Ливии,Libia,Libya,1,libya,country,NA,Libya
+20,НА ВИА ФУНАРИ / IN VIA DEI FUNARI,118-119,"Hotel Quirinale, Рим","Hotel Quirinale, Roma",Hotel Quirinale,1,hotel_quirinale,hotel,Rome,Italy
+21,КОРНЕЛИЮ ДОЛАБЕЛЛЕ / A CORNELIO DOLABELLA,120-121,"Hotel Quirinale, Рим","Hotel Quirinale, Roma",Hotel Quirinale,2,hotel_quirinale,hotel,Rome,Italy
+22,С НАТУРЫ / DAL VERO,122-123,дворца Минелли,palazzo Minelli,Palazzo Minelli,1,palazzo_minelli,building,Venice,Italy
+22,С НАТУРЫ / DAL VERO,122-123,венецианском,veneziano,Venice,5,venice,city,Venice,Italy
+22,С НАТУРЫ / DAL VERO,124-125,Casa Marcello,Casa Marcello,Girolamo Marcello's Palace (Rio de la Verona),1,casa_marcello,building,Venice,Italy
