@@ -6,14 +6,12 @@
         <title>Poesie Italiane</title>
         <author>Joseph Brodsky</author>
         <editor>Serena Vitale</editor>
-        <respStmt xml:id="buttafava">
-          <resp>Translator</resp>
+        <respStmt>
+          <resp>Translated by</resp>
           <name>Giovanni Buttafava</name>
-        </respStmt>
-        <respStmt xml:id="vitale">
-          <resp>Translator</resp>
           <name>Serena Vitale</name>
         </respStmt>
+      </titleStmt>
       </titleStmt>
       <publicationStmt>
         <p>TEI for demonstration purposes</p>
