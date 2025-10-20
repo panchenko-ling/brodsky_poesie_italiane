@@ -9,7 +9,7 @@ Poem number,Poem name (ru / it),Pages,Text (ru),Text (it),Person / Entity,Mentio
 2,ЛАГУНА / LAGUNA,16-17,Веры,Fede,Saint Hope,1,st_hope,christianity,,NA,,,
 2,ЛАГУНА / LAGUNA,16-17,Любви,Amore,Saint Charity,1,st_charity,christianity,,NA,,,
 4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,22-23,Анна Ахматова,Anna Achmatova,Anna Akhmatova,1,akhmatova_anna,"art, acquaintance","poet, friend",Russia,1889,1966,
-4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,22-23,Челлини,Cellini,Benvenuto Cellini,1,cellini_benvenuto,art,sculptor,Italy,1500,5171,
+4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,22-23,Челлини,Cellini,Benvenuto Cellini,1,cellini_benvenuto,art,sculptor,Italy,1500,1571,
 4,ДЕКАБРЬ ВО ФЛОРЕНЦИИ / DICEMBRE A FIRENZE,26-27,Брунеллески,Brunelleschi,Filippo Brunelleschi,1,brunelleschi_filippo,art,architect,Italy,1377,1446,
 5,САН-ПЬЕТРО / SAN PIETRO,32-33,Евангелиста,Evangelista,Evangelist (unidentified),1,evangelist,christianity,,NA,,,
 5,САН-ПЬЕТРО / SAN PIETRO,34-35,Афродитой,Afrodite,Aphrodite,1,aphrodite,greek_mythology,,Greece,,,
@@ -96,4 +96,5 @@ Poem number,Poem name (ru / it),Pages,Text (ru),Text (it),Person / Entity,Mentio
 20,НА ВИА ФУНАРИ / IN VIA DEI FUNARI,118-119,Септимий Север,Settimio Severo,Septimius Severus,1,septimius_severus,historical_character,roman_emperor,Italy,145,211,
 20,НА ВИА ФУНАРИ / IN VIA DEI FUNARI,118-119,Д.,D.,Giovanni Buttafava,2,buttafava_giovanni,"art, acquaintance","translator, friend",Italy,1939,1990,
 21,КОРНЕЛИЮ ДОЛАБЕЛЛЕ / A CORNELIO DOLABELLA,120-121,КОРНЕЛИЮ ДОЛАБЕЛЛЕ,CORNELIO DOLABELLA,Publio Cornelio Dolabella,1,dolabella_cornelio,historical_character,,Italy,85BC,43BC,
+
 22,С НАТУРЫ / DAL VERO,122-123,Джироламо Марчелло,Girolamo Marcello,Girolamo Marcello,2,conte_marcello_girolamo,acquaintance,friend,Italy,1932,2017,
